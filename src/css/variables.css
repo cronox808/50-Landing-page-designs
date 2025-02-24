@@ -1,0 +1,9 @@
+:root{
+    --color-1: #FFFFFF;
+    --color-2: #000000;
+
+}
+@font-face {
+    font-family: "example";
+    src: url(../stora/font/Inter/static/example.ttf);
+}
