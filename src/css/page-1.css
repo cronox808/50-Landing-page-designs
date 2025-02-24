@@ -1,0 +1,39 @@
+@import url(variables.css);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter_18pt-Regular";
+}
+
+h1{
+    background-color: red;
+    text-align: center;
+    margin-top: 64px;
+}
+
+p{
+    text-align: center;
+    margin-top: 24px;
+}
+.boton{
+    text-align: center;
+}
+button{
+    border:none;
+    width: 158px;
+    height: 54px;
+
+}
+.imagenes{
+    background-color:blue;
+    text-align: center;
+    width: 1312px;
+    height: 592px;
+    overflow:auto;
+}
+img{
+    background-color: pink;
+    height: 288px;
+    width: 316px;
+}
