@@ -4,6 +4,11 @@
     --color-3: #252525;
 }
 @font-face {
-    font-family: "example";
-    src: url(../stora/font/Inter/static/example.ttf);
+    font-family: "avenir-heavy";
+    src: url(../stora/font/inter/statick/avenir-heavy.ttf)
+}
+
+@font-face {
+    font-family: "avenir-roman";
+    src: url(../stora/font/inter/statick/avenir-roman.ttf)
 }
