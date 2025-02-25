@@ -1,0 +1,63 @@
+
+@import url(../css/variables.css);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter_18pt-Regular";
+}
+.up {
+    display: flex;
+    align-items: center;
+    justify-content: space-between 17px;
+}
+
+.texto{
+    
+    width: 444px;
+    height: 473px;
+}
+h1{
+    font-size: 56px;
+    font-family: "avenir-heavy";
+    line-height: 80px;
+}
+p{
+    color: var(--color-4);
+    font-size: 26px;
+    font-family: "avenir-roman";
+    line-height: auto;
+}
+button{
+    font-family: "avenir-roman";
+    width: 157px;
+    height: 50px;
+    background-color: var(--color-3);
+    color:var(--color-1);
+    border:none;
+    border-radius: 16px;
+
+}
+button:hover {
+    background-color:var(--color-2);
+    
+  }
+
+img{
+
+    background-color: red;
+    margin: 0px,35px,0px,0px;
+}
+.left_img{
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+    margin-left: 17px;
+}
+.top-image {
+    align-self: flex-start;
+}
+
+.bottom-image {
+    align-self: flex-end;
+}
