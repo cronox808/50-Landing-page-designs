@@ -40,26 +40,23 @@ button:hover {
     
   }
 img{
-    height: 288px;
-    width: 316px;
+    margin: 0px,16px,0px,16px;
 }
 .imagenes1{
     margin-top: 64px;
     margin: auto;
-    display: block;
     text-align: center;
     margin-top: 64px;
     width: 1312px;
     height: 288px;
-    overflow:auto;
+    
 }
 .imagenes2{
-    margin-top: 64px;
+
     margin: auto;
-    display: block;
     text-align: center;
-    margin-top: 64px;
+    margin-top: 16px;
     width: 1312px;
     height: 288px;
-    overflow:auto;
+    
 }
