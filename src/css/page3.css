@@ -1,0 +1,22 @@
+@import url(variables.css);
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.tittles{
+    margin-top: 122px;
+    display: flex;
+}
+h1{ 
+    color: var(--color-3);
+    font-family: "avenir-heavy";
+    margin-left: 64px;
+    margin: none;
+    font-size: 80px;
+}
+.parrafo{
+    margin-left: 113px;
+    width: 526px;
+    height: 174px;
+}
