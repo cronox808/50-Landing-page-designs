@@ -20,3 +20,29 @@ h1{
     width: 526px;
     height: 174px;
 }
+p{
+    color: var(--color-4);
+    font-family: "avenir-roman";
+    font-size: 26px;
+    line-height: auto;
+}
+.boton{
+    margin-top: 16px;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 157px;
+    height: 50px;
+
+    background-color: var(--color-3);
+}
+a{
+    color: var(--color-1);
+    font-family: "avenir-roman";
+    text-decoration: none;
+    font-size: 18px;
+}
+img{
+    margin-left: 64px;
+}
