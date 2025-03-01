@@ -1,0 +1,17 @@
+@import url(variables.css);
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    margin-top: 64px;
+}
+.left{
+    margin-left: 112px;
+}
+.up h1{
+    font-size: 64px;
+    line-height: 80px;
+}
