@@ -72,3 +72,43 @@ title{
     margin-top: -66.21px;
     margin-left: 21.69px;
 }
+.center{
+    display: flex;
+    background-color: deeppink;
+ }
+.imgcenter{
+    margin-top: 95px;
+    margin-bottom: 135px;
+    margin-left: 36px;
+    margin-right: 56.52px;
+    background-color: blue;
+    width: 415.48px;
+    height: 709px;
+}
+
+ .right{
+    background-color: indigo;
+ }
+
+ .img-right {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    background-color: yellow;
+    width: 392px;
+    height: 421px; /* Asegúrate de que el contenedor tenga una altura definida */
+}
+
+.img3, .img4 {
+    max-width: 100%; /* La imagen no excederá el tamaño del contenedor */
+    height: auto; /* Mantiene las proporciones de la imagen */
+}
+.img3 {
+    margin-top: -105px; /* Aplica un margen superior a la imagen */
+}
+
+.img4 {
+    margin-top: 105px; /* Aplica un margen superior a la imagen */
+    margin-left: 24px;
+    
+}
