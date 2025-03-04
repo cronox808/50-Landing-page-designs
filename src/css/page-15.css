@@ -1,0 +1,16 @@
+@import url(variables.css);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter_18pt-Regular";
+}
+body{
+    margin-top: 66px;
+    width: 1440px;
+    height: 1024px;
+    display: grid;
+    grid-template-columns: 476px 508px 456px;
+    gap: 0px;
+}
+
