@@ -1,27 +1,27 @@
 :root{
     --color-1: #FFFFFF;
     --color-2: #000000;
-    --color-3: #457d61;
-    --color-4: #252525;
-    --color-6: hsla(0, 0%, 15%, 0.800);
-    --color-7: hsla(0, 0%, 15%, 0.5);
-    
-
-}
-
+    --color-3: #252525;
+    --color-4: #271908;
+    --color-5: #d4a476;
+    --color-6: #e3c3b6;
+    --color-7: #e8d9d6;
+    --color-8: hsla(0, 0%, 100%, 0.5);
+    --color-9: #457d61;
+    --color-10: hsla(0, 0%, 15%, 0.800);
+    --color-11: hsla(0, 0%, 15%, 0.5);
+    --color-12: #09212c;
+    --color-13: #043e49;
+    --color-14: #63E1E1;
 }
 @font-face {
     font-family: "avenir-heavy";
-    src: url(../stora/font/inter/avenir/avenir-heavy.ttf)
+    src: url(../stora/font/Avenir/statick/avenir-heavy.ttf)
 }
-
-
-    
-
 
 @font-face {
     font-family: "avenir-roman";
-    src: url(../stora/font/inter/avenir/avenir-roman.ttf)
+    src: url(../stora/font/Avenir/statick/avenir-roman.ttf)
 }
 
     
@@ -30,6 +30,26 @@
 @font-face {
     font-family: "Times-Bold";
     src: url(../stora/font/typography_times/Typography\ Times\ Bold.ttf);
+}
+
+@font-face {
+    font-family: "Poppins-BlackItalic";
+    src: url(../stora/font/Poppins/Poppins-BlackItalic.ttf);
+}
+
+@font-face {
+    font-family: "Poppins-Bold";
+    src: url(../stora/font/Poppins/Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family: "Poppins-BoldItalic";
+    src: url(../stora/font/Poppins/Poppins-BoldItalic.ttf);
+}
+
+@font-face {
+    font-family: "Poppins-Regular";
+    src: url(../stora/font/poppins/Poppins-Regular.ttf);
 }
 
 @font-face {
@@ -45,19 +65,4 @@
 @font-face {
     font-family: "bold-italic";
     src: url(../stora/font/typography_times/Typography\ Times\ Bold\ Italic.ttf);
-}
-
-@font-face {
-    font-family: "Poppins-Regular";
-    src: url(../stora/font/poppins/Poppins-Regular.ttf);
-
-
-}
-@font-face {
-    font-family: "avenir-heavy";
-    src: url(../stora/font/Avenir/statick/avenir-heavy.ttf);
-}
-@font-face {
-    font-family: "avenir-roman";
-    src: url(../stora/font/Avenir/statick/avenir-roman.ttf);
 }
