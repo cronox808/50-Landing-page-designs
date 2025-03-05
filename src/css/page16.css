@@ -63,9 +63,68 @@
     margin-left: 64px;
     display: flex;
     position: absolute;
-    border-radius: 15px; /* Bordes redondeados */
+    border-radius: 32px; /* Bordes redondeados */
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); /* Sombra difuminada */
     backdrop-filter: blur(10px); /* Efecto de desenfoque */
     width: 1312px;
     height: 171px;
+}
+
+.c1{
+    margin-top: 24px; 
+    margin-left: 56px;
+    width: 231px;
+    height: 123px;
+}
+.c1 h1{
+    margin-top: 8px;
+    font-size: 24px;
+}
+.c1 p{
+    margin-top: 8px;
+    font-size: 18px;
+}
+.c2{
+    margin-top: 24px; 
+    margin-left: 94px;
+    width: 231px;
+    height: 123px;
+}
+.c2 h1{
+    margin-top: 8px;
+    font-size: 24px;
+}
+.c2 p{
+    margin-top: 8px;
+    font-size: 18px;
+}
+
+.c3{
+    margin-top: 24px; 
+    margin-left: 94px;
+    width: 231px;
+    height: 123px;
+}
+.c3 h1{
+    margin-top: 8px;
+    font-size: 24px;
+}
+.c3 p{
+    margin-top: 8px;
+    font-size: 18px;
+}
+
+.c4{
+    margin-top: 24px; 
+    margin-left: 94px;
+    width: 231px;
+    height: 123px;
+}
+.c4 h1{
+    margin-top: 8px;
+    font-size: 24px;
+}
+.c4 p{
+    margin-top: 8px;
+    font-size: 18px;
 }
