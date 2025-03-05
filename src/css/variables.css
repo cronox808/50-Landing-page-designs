@@ -3,6 +3,7 @@
     --color-2: #000000;
     --color-3: #457d61;
     --color-4: #252525;
+    --color-6: hsla(0, 0%, 15%, 0.800);
     
 
 }
@@ -29,4 +30,14 @@
 @font-face {
     font-family: "Poppins-Regular";
     src: url(../stora/font/poppins/Poppins-Regular.ttf);
+
+
+}
+@font-face {
+    font-family: "avenir-heavy";
+    src: url(../stora/font/Avenir/statick/avenir-heavy.ttf);
+}
+@font-face {
+    font-family: "avenir-roman";
+    src: url(../stora/font/Avenir/statick/avenir-roman.ttf);
 }
