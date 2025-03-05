@@ -2,13 +2,29 @@
     --color-1: #FFFFFF;
     --color-2: #000000;
     --color-3: #252525;
-    --color-4: hsla(0, 0%, 15%, 0.800);
-    --color-5: hsla(0, 0%, 15%, 0.5);
-    --color-6: #457d61;
+
+    --color-4: hsl(0, 0%, 15%, 0,8);
+    --color-5: #457d61;
+    --color-6: hsla(0, 0%, 15%, 0.800);
+    --color-7: #457d61;
+    --color-8: hsla(0, 0%, 15%, 0.5);
+}
+@font-face {
+    font-family: "avenir-heavy";
+    src: url(../stora/font/inter/avenir/avenir-heavy.ttf)
+}
+
 
     
 
+
+@font-face {
+    font-family: "avenir-roman";
+    src: url(../stora/font/inter/avenir/avenir-roman.ttf)
 }
+
+    
+
 @font-face {
     font-family: "Times-Bold";
     src: url(../stora/font/typography_times/Typography\ Times\ Bold.ttf);

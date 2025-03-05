@@ -1,0 +1,63 @@
+@import url(../css/variables.css);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter_18pt-Regular";
+}
+
+
+h1{
+    font-size: 64px;
+    font-family: "avenir-heavy";
+    text-align: center;
+    margin-top: 64px;
+}
+
+p{
+    color: var(--color-4);
+    font-size: 26px;
+    font-family: "avenir-roman";
+    text-align: center;
+    margin-top: 24px;
+}
+.boton{
+
+    margin-top: 24px;
+    text-align: center;
+}
+button{
+    font-family: "avenir-roman";
+    width: 158px;
+    height: 54px;
+    background-color: var(--color-3);
+    color:var(--color-1);
+    border:none;
+    border-radius: 16px;
+
+}
+button:hover {
+    background-color:var(--color-2);
+    
+  }
+img{
+    margin: 0px,16px,0px,16px;
+}
+.imagenes1{
+    margin-top: 64px;
+    margin: auto;
+    text-align: center;
+    margin-top: 64px;
+    width: 1312px;
+    height: 288px;
+    
+}
+.imagenes2{
+
+    margin: auto;
+    text-align: center;
+    margin-top: 16px;
+    width: 1312px;
+    height: 288px;
+    
+}
