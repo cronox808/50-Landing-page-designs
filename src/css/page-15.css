@@ -31,7 +31,7 @@ body{
 
 }
 .left h1{
-    color: var(--color-3);
+    color: var(--color-4);
     font-family: "regular";
     font-size: 64px;
 }
@@ -55,7 +55,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: var(--color-6);
+    background-color: var(--color-3);
     width: 177px;
     height: 66px;
 }
@@ -128,5 +128,4 @@ body{
     color: var(--color-4);
     font-family: "regular";
     margin-top: 40px;
-    font-size: 64px;
-}
+
