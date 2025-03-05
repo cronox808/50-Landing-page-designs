@@ -11,6 +11,8 @@
     --color-9: #457d61;
     --color-10: hsla(0, 0%, 15%, 0.800);
     --color-11: hsla(0, 0%, 15%, 0.5);
+    --color-12: #09212c;
+    --color-13: #043e49;
 }
 @font-face {
     font-family: "avenir-heavy";
