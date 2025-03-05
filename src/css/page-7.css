@@ -11,6 +11,7 @@ body {
 
 .contenedor-page h1 {
     font-size: 80px;
+    font-family: "Avenir-heavy";
     color: var(--color-2);
     margin-right: 700px;
     margin-bottom: 30px;
@@ -30,12 +31,14 @@ body {
 
 .content h3 {
     font-size: 40px;
+    font-family: "Avenir-heavy";
     color: var(--color-35);
     margin-bottom: 0;
 }
 
 .content p {
     font-size: 24px;
+    font-family: "Avenir-roman";
     color: var(--color-3);
     line-height: 1.5;
     margin-bottom: 20px;
