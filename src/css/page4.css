@@ -16,6 +16,7 @@ body{
     height: 415px;
 }
 .up h1{
+    color: var(--color-3);
     font-family: "Avenir-Heavy";
     font-size: 64px;
     line-height: 80px;

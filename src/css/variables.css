@@ -4,6 +4,35 @@
     --color-3: #252525;
     --color-4: hsla(0, 0%, 15%, 0.800);
     --color-5: hsla(0, 0%, 15%, 0.5);
+    --color-6: #457d61;
+
+    
+
+}
+@font-face {
+    font-family: "Times-Bold";
+    src: url(../stora/font/typography_times/Typography\ Times\ Bold.ttf);
+}
+
+@font-face {
+    font-family: "regular";
+    src: url(../stora/font/typography_times/Typography\ Times\ Regular.ttf);
+}
+
+@font-face {
+    font-family: "Italic";
+    src: url(../stora/font/typography_times/Typography\ Times\ Italic.ttf);
+}
+
+@font-face {
+    font-family: "bold-italic";
+    src: url(../stora/font/typography_times/Typography\ Times\ Bold\ Italic.ttf);
+}
+
+@font-face {
+    font-family: "Poppins-Regular";
+    src: url(../stora/font/poppins/Poppins-Regular.ttf);
+
 
 }
 @font-face {
