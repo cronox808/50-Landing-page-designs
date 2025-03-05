@@ -6,8 +6,8 @@
     font-family: "Inter_18pt-Regular";
 }
 .main{
-    width: 1440px;
-    height: 1024px;
+    width: auto;
+    height: auto;
     display: flex;
     background: linear-gradient(to bottom, var(--color-12), var(--color-13));
 }
@@ -31,22 +31,28 @@
     margin-top: 40px;
     margin-left: 56PX;
 }
-.cuadro-1 h1{  
+.cuadro-1 h1{ 
+    font-family: "avenir-heavy"; 
     margin-left: 56PX; 
     margin-top: 24px;
     font-size: 64px;
+    width: 612px;
+    height: 144px;
+    line-height: 72px;
 }
 
 .cuadro-1 p{
     margin-left: 56PX;
     margin-top: 40px;
     font-size: 26px;
+    font-family: "avenir-roman";
+
 }
 .boton{
     margin-left: 56PX;
     margin-top: 40PX;
     display: flex;
-    background-color: red;
+    background-color: var(--color-14);
     width: 182px;
     height: 66px;
     align-items: center;
@@ -55,6 +61,9 @@
 }
 
 .cuadro-1 a{
+    font-family: "Poppins-Regular";
+    color: var(--color-2);
+    font-size: 24px;
     text-decoration: none;
 }
 
@@ -77,54 +86,73 @@
     height: 123px;
 }
 .c1 h1{
+    font-family: "avenir-heavy"; 
+    color: var(--color-1);
     margin-top: 8px;
     font-size: 24px;
 }
 .c1 p{
+    font-family: "avenir-roman";
+    color: var(--color-1);
     margin-top: 8px;
     font-size: 18px;
 }
 .c2{
+    color: var(--color-1);
     margin-top: 24px; 
     margin-left: 94px;
     width: 231px;
     height: 123px;
 }
 .c2 h1{
+    font-family: "avenir-heavy"; 
+    color: var(--color-1);
     margin-top: 8px;
     font-size: 24px;
 }
 .c2 p{
+    font-family: "avenir-roman";
+    color: var(--color-1);
     margin-top: 8px;
     font-size: 18px;
 }
 
 .c3{
+    color: var(--color-1);
     margin-top: 24px; 
     margin-left: 94px;
     width: 231px;
     height: 123px;
 }
 .c3 h1{
+    font-family: "avenir-heavy"; 
+    color: var(--color-1);
     margin-top: 8px;
     font-size: 24px;
 }
 .c3 p{
+    font-family: "avenir-roman";
+    color: var(--color-1);
     margin-top: 8px;
     font-size: 18px;
 }
 
 .c4{
+    color: var(--color-1);
     margin-top: 24px; 
     margin-left: 94px;
     width: 231px;
     height: 123px;
 }
 .c4 h1{
+    font-family: "avenir-heavy"; 
+    color: var(--color-1);
     margin-top: 8px;
     font-size: 24px;
 }
 .c4 p{
+    font-family: "avenir-roman";
+    color: var(--color-1);
     margin-top: 8px;
     font-size: 18px;
 }

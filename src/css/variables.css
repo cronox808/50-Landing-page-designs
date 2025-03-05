@@ -7,21 +7,21 @@
     --color-6: #e3c3b6;
     --color-7: #e8d9d6;
     --color-8: hsla(0, 0%, 100%, 0.5);
-
     --color-9: #457d61;
     --color-10: hsla(0, 0%, 15%, 0.800);
     --color-11: hsla(0, 0%, 15%, 0.5);
     --color-12: #09212c;
     --color-13: #043e49;
+    --color-14: #63E1E1;
 }
 @font-face {
     font-family: "avenir-heavy";
-    src: url(../stora/font/inter/avenir/avenir-heavy.ttf)
+    src: url(../stora/font/Avenir/statick/avenir-heavy.ttf)
 }
 
 @font-face {
     font-family: "avenir-roman";
-    src: url(../stora/font/inter/avenir/avenir-roman.ttf)
+    src: url(../stora/font/Avenir/statick/avenir-roman.ttf)
 }
 
     
@@ -49,23 +49,6 @@
 @font-face {
     font-family: "Poppins-Regular";
     src: url(../stora/font/poppins/Poppins-Regular.ttf);
-
-
-}
-@font-face {
-    font-family: "avenir-heavy";
-    src: url(../stora/font/Avenir/statick/avenir-heavy.ttf);
-}
-@font-face {
-    font-family: "avenir-roman";
-    src: url(../stora/font/Avenir/statick/avenir-roman.ttf);
-}
-
-    
-
-@font-face {
-    font-family: "Times-Bold";
-    src: url(../stora/font/typography_times/Typography\ Times\ Bold.ttf);
 }
 
 @font-face {
